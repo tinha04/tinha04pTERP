@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Deploy</title>
+</head>
+<body>
+  <h1>Deploy on Render</h1>
+  <ul>
+    <li><b>Name:</b> Tin Ha</li>
+    <li><b>GitHub Location:</b>
+      <a href="https://github.com/tinha04/tinha04pTERP" target="_blank">
+        https://github.com/tinha04/tinha04pTERP
+      </a>
+    </li>
+    <li><b>Render Location:</b>
+      <a href="https://deploy-q2zz.onrender.com/" target="_blank">
+        https://deploy-q2zz.onrender.com/
+      </a>
+    </li>
+    <li><b>Clearing Database Movies:</b>
+      <a href="https://deploy-q2zz.onrender.com/clearCollection" target="_blank">
+        https://deploy-q2zz.onrender.com/clearCollection
+      </a>
+    </li>
+    <li><b>Inserting Movies:</b>
+      <a href="https://deploy-q2zz.onrender.com/insertMovies" target="_blank">
+        https://deploy-q2zz.onrender.com/insertMovies
+      </a>
+    </li>
+    <li><b>List Movies:</b>
+      <a href="https://deploy-q2zz.onrender.com/listMovies" target="_blank">
+        https://deploy-q2zz.onrender.com/listMovies
+      </a>
+    </li>
+  </ul>
+</body>
+</html>
